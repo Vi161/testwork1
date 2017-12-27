@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'LatoBlack';
+    src: url('../fonts/LatoBlack.ttf');
+}
+@font-face {
+    font-family: 'LatoBold';
+    src: url('../fonts/LatoBold.ttf');
+}
+@font-face {
+    font-family: 'LatoLight';
+    src: url('../fonts/LatoLight.ttf');
+}
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('../fonts/LatoRegular.ttf');
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans.ttf');
+}
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../fonts/OpenSans-Bold.ttf');
+}
+/*---------------------------------------------------------------*/
+.container-max {
+    max-width: 1920px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.header-bot-container {
+    width: 100%;
+    background-color: darkblue;
+}
+
+.logo {
+    max-width: 100%;
+    min-height: auto;
+}
+.logo img {
+    max-width: 110%;
+}
+.page-header-container {
+    display: flex;
+    flex-direction: column;
+}
+.header-top {
+    display: flex;
+    padding: 7px 0;
+}
+.logo-wrap {
+    display: flex;
+    align-items: center;
+}
+.header-top-second__wrap {
+    display: flex;
+    align-items: center;
+}
+.logo-title {
+    padding: 0 3vw;
+}
+.header-top-second1 {
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    padding: 0 4vw;
+    margin-left: 1vw;
+}
+.header-top-second2 {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    padding-left: 4vw;
+}
+.logo-title-txt {
+    font-family: 'LatoRegular';
+    font-size: 19px;
+}
+.header-top-second1-p {
+    font-family: 'LatoLight';
+    font-size: 19px;
+}
+.header-top-second2-p {
+    font-family: 'OpenSans-Bold';
+    font-size: 22px;
+}
+.header-top-second2-a {
+    font-family: 'OpenSans';
+    font-size: 15px;
+    text-decoration: underline;
+    color: black;
+}
+#header-nav {
+    border-bottom: none;
+}
+
+
+@media screen and (max-width: 1060px) {
+    .logo-title-txt {
+        font-size: 1.7vw;
+    }
+    .header-top-second1-p {
+        font-size: 1.7vw;
+    }
+    .header-top-second2-p {
+        font-size: 1.9vw;
+    }
+    .header-top-second2-a {
+        font-size: 1.3vw;
+    }
+}
+
