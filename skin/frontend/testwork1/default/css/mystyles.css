@@ -254,6 +254,7 @@ body.cms-home .main-container {
     font-size: 27px;
     text-transform: uppercase;
     color: #ffffff;
+    white-space: nowrap;
 }
 .container-mid__left__top__txt1_blue {
     color: rgb(55, 114, 183);
@@ -262,10 +263,12 @@ body.cms-home .main-container {
     font-family: 'BRUSHSCI';
     font-size: 23px;
     color: #ffffff;
+    white-space: nowrap;
 }
 .container-mid__left__top__wrap {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .container-mid__left__mid {
     font-family: 'LatoLight';
@@ -319,9 +322,33 @@ body.cms-home .main-container {
     font-family: 'Lato-Medium';
     font-size: 20px;
 }
+.container-mid__left__mid__mob {
+    display: none;
+}
 .container-mid__right__txt2 {
     font-family: 'LatoLight';
     font-size: 16px;
+}
+
+@media  (min-width: 771px) and (max-width: 1200px) {
+    .container-mid__left {
+        padding: 55px 3vw;
+    }
+    .container-mid__right__wrap {
+        padding-left: 5vw;
+    }
+    .container-mid__left__top__txt1 {
+        font-size: 2vw;
+    }
+    .container-mid__left__top__txt2 {
+        font-size: 2vw;
+    }
+    .container-mid__right__txt1 {
+        font-size: 2vw;
+    }
+    .container-mid__right__txt2 {
+        font-size: 1.5vw;
+    }
 }
 @media (min-width: 771px) and (max-width: 1060px) {
     .logo-title-txt {
@@ -373,4 +400,62 @@ body.cms-home .main-container {
     .header-bot .parent::before {
         display: none;
     }
+    .container-top {
+        display: none;
+    }
+    .container-mid {
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .container-mid__left {
+        width: 100%;
+    }
+    .container-mid__right1 {
+        flex-direction: column;
+        width: 100%;
+    }
+    .container-mid__right2 {
+        flex-direction: column;
+        width: 100%;
+    }
+    .container-mid__left__bot__wrap {
+        display: none;
+    }
+    .footer-container {
+        padding-top: 100%;
+    }
+    .container-mid__wrap {
+        background-image: none;
+    }
+    .container-mid__left {
+        background-color: inherit;
+        background-image: url(../images/background-mid-mob.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-left: 0;
+        padding: 0;
+        flex-direction: row;
+        background-size: cover;
+        padding: 5vw 6vw;
+        align-items: center;
+    }
+    .container-mid__left__mid {
+        display: none;
+    }
+    .container-mid__left__mid__mob {
+        display: block;
+        color: #ffffff;
+    }
+    .container-mid__left__top__txt__wrap {
+        padding: 0 6vw;
+    }
+    .container-mid__right__wrap {
+        border-bottom: 1px solid #d3d3d3;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
 }
+
+
