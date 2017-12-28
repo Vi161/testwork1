@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b73262e-c0b4-478e-ac02-b7db0a6da271" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/testwork1/default/images/mysprite.png" afterPath="$PROJECT_DIR$/skin/frontend/testwork1/default/images/mysprite.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---7a3_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---7a3_ADMIN_NOTIFICATIONS_LASTCHECK" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---7a3_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---7a3_FOOTER_LOCALEEN_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---7a3_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---7a3_ADMIN_NOTIFICATIONS_LASTCHECK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---7a3_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---7a3_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---7a3_CORE_CACHE_INVALIDATE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---7a3_CORE_CACHE_INVALIDATE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_cms_page_1" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_cms_page_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_eav_attribute_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_eav_attribute_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_log_url_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_log_url_info_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---7a3_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---7a3_FOOTER_LOCALEEN_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_af_ZA_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_af_ZA_country_ZA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_af_ZA_language_af" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_af_ZA_language_af" />
@@ -50,7 +48,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_de_CH_language_de" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_de_CH_language_de" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_de_DE_country_DE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_de_DE_country_DE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_de_DE_language_de" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_de_DE_language_de" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleC_de_time_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleC_de_time_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_el_GR_country_GR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_el_GR_country_GR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_el_GR_language_el" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_el_GR_language_el" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_AU_country_AU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_AU_country_AU" />
@@ -63,33 +60,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_IE_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_IE_language_en" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_NZ_country_NZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_NZ_country_NZ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_NZ_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_NZ_language_en" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_am_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_am_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_country_US" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_country_US" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencynumber_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencysymbol_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencysymbol_USD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencysymbol_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencytoname_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencytoname_USD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencytoregion_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_currencytoregion_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_full" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_full" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_long" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_long" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_medium" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_short" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_date_short" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_field_week" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_field_week" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_day_gregorian_format_wide_thu" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_day_gregorian_format_wide_thu" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_language_en" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_11" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_12" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_1" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_2" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_4" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_5" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_wide_12" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_month_gregorian_format_wide_12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_nametocurrency_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_nametocurrency_USD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_nametocurrency_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_pm_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_relative_0" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_relative_0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_time_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_time_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_time_medium" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_en_US_time_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_es_AR_country_AR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_es_AR_country_AR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_es_AR_language_es" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_es_AR_language_es" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_es_CL_country_CL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_es_CL_country_CL" />
@@ -175,11 +153,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_ro_RO_country_RO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_ro_RO_country_RO" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_ro_RO_language_ro" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_ro_RO_language_ro" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_country_RU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_country_RU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_date_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_date_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_decimalnumber_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_decimalnumber_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_language_ru" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_language_ru" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_scientificnumber_" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_scientificnumber_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_time_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleC_ru_RU_time_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_sk_SK_country_SK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_sk_SK_country_SK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_sk_SK_language_sk" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleC_sk_SK_language_sk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_sl_SI_country_SI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---7a3_Zend_LocaleC_sl_SI_country_SI" />
@@ -212,13 +188,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_month_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_month_gregorian_format_abbreviated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_months_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_territory_2" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---7a3_Zend_LocaleL_en_US_territory_2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_day_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_day_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_month_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_month_gregorian_format_abbreviated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---7a3_Zend_LocaleL_ru_RU_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css" afterPath="$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/session/sess_gaubkem64gtn48i0inuc5udhr1" afterPath="$PROJECT_DIR$/var/session/sess_gaubkem64gtn48i0inuc5udhr1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.phtml" afterPath="$PROJECT_DIR$/temp.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testwork1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -246,7 +224,7 @@
           <file leaf-file-name="1column.phtml" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/1column.phtml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="59" column="50" selection-start="2400" selection-end="2400" vertical-scroll-proportion="-6.019608" vertical-offset="271" max-vertical-offset="833">
+                <state line="59" column="50" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1258">
                   <folding />
                 </state>
               </provider>
@@ -255,7 +233,7 @@
           <file leaf-file-name="temp.phtml" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/temp.phtml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="10" selection-start="0" selection-end="454" vertical-scroll-proportion="0.26842105" vertical-offset="0" max-vertical-offset="570">
+                <state line="70" column="41" selection-start="3745" selection-end="3767" vertical-scroll-proportion="0.46258503" vertical-offset="782" max-vertical-offset="1734">
                   <folding />
                 </state>
               </provider>
@@ -264,9 +242,9 @@
           <file leaf-file-name="mystyles.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="49" column="27" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="4488">
+                <state line="63" column="27" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0" vertical-offset="935" max-vertical-offset="6494">
                   <folding>
-                    <marker date="1514484400451" expanded="true" signature="825:878" placeholder="{...}" />
+                    <marker date="1514494108590" expanded="true" signature="1119:1172" placeholder="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -279,10 +257,11 @@
           <file leaf-file-name="mystyles.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="205" column="19" selection-start="4803" selection-end="4803" vertical-scroll-proportion="0.91068304" vertical-offset="2965" max-vertical-offset="3655">
+                <state line="308" column="23" selection-start="7055" selection-end="7055" vertical-scroll-proportion="0.5528634" vertical-offset="4734" max-vertical-offset="5661">
                   <folding>
-                    <element signature="e#4806#5158#0" expanded="false" />
-                    <element signature="e#5159#5956#0" expanded="false" />
+                    <element signature="e#7415#7767#0" expanded="false" />
+                    <element signature="e#7768#8565#0" expanded="false" />
+                    <marker date="1514494108590" expanded="true" signature="1119:1172" placeholder="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -351,6 +330,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -701,7 +681,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -764,7 +743,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -776,6 +754,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -800,6 +779,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/1column.phtml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="50" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="62" selection-start="2317" selection-end="2343" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="322" column="17" selection-start="7385" selection-end="7385" vertical-scroll-proportion="0.0" vertical-offset="5474" max-vertical-offset="6477">
+          <folding>
+            <element signature="e#7415#7767#0" expanded="false" />
+            <element signature="e#7768#8565#0" expanded="false" />
+            <marker date="1514494108590" expanded="true" signature="1119:1172" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/1column.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="50" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="58" selection-start="1577" selection-end="1607" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="275" column="22" selection-start="6383" selection-end="6383" vertical-scroll-proportion="0.0" vertical-offset="4675" max-vertical-offset="5763">
+          <folding>
+            <element signature="e#7415#7767#0" expanded="false" />
+            <element signature="e#7768#8565#0" expanded="false" />
+            <marker date="1514494108590" expanded="true" signature="1119:1172" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/1column.phtml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="64" selection-start="2184" selection-end="2233" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="833">
           <folding />
         </state>
@@ -807,9 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/html/notices.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="833">
-          <folding />
-        </state>
+        <state line="43" column="0" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="833" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/page/html/notices.phtml">
@@ -819,72 +846,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/catalog/product/widget/new/column/new_default_list.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="9" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.6052632" vertical-offset="114" max-vertical-offset="1088">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="27" column="9" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.6052632" vertical-offset="114" max-vertical-offset="1088" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/catalog/product/widget/new/column/new_images_list.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.7667239" vertical-offset="12" max-vertical-offset="595">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="27" column="10" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.7667239" vertical-offset="12" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/catalog/product/widget/new/content/new_grid.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.27719298" vertical-offset="301" max-vertical-offset="1275">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="27" column="5" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.27719298" vertical-offset="301" max-vertical-offset="1275" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/layout/page.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="75" selection-start="10853" selection-end="10853" vertical-scroll-proportion="-5.44" vertical-offset="2907" max-vertical-offset="4284">
-          <folding />
-        </state>
+        <state line="179" column="75" selection-start="10853" selection-end="10853" vertical-scroll-proportion="-5.44" vertical-offset="2907" max-vertical-offset="4284" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/html/notices.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.52487135" vertical-offset="0" max-vertical-offset="583">
-          <folding />
-        </state>
+        <state line="43" column="0" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.52487135" vertical-offset="0" max-vertical-offset="583" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/html/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="59" selection-start="3102" selection-end="3109" vertical-scroll-proportion="-12.769231" vertical-offset="637" max-vertical-offset="1207">
-          <folding />
-        </state>
+        <state line="80" column="59" selection-start="3102" selection-end="3109" vertical-scroll-proportion="-12.769231" vertical-offset="637" max-vertical-offset="1207" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/testwork1/default/template/page/1column.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="50" selection-start="2400" selection-end="2400" vertical-scroll-proportion="-6.019608" vertical-offset="271" max-vertical-offset="833">
+        <state line="59" column="50" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1258">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="0" selection-end="454" vertical-scroll-proportion="0.26842105" vertical-offset="0" max-vertical-offset="570">
+        <state line="70" column="41" selection-start="3745" selection-end="3767" vertical-scroll-proportion="0.46258503" vertical-offset="782" max-vertical-offset="1734">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/testwork1/default/css/mystyles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="19" selection-start="4803" selection-end="4803" vertical-scroll-proportion="0.91068304" vertical-offset="2965" max-vertical-offset="3655">
+        <state line="308" column="23" selection-start="7055" selection-end="7055" vertical-scroll-proportion="0.5528634" vertical-offset="4734" max-vertical-offset="5661">
           <folding>
-            <element signature="e#4806#5158#0" expanded="false" />
-            <element signature="e#5159#5956#0" expanded="false" />
+            <element signature="e#7415#7767#0" expanded="false" />
+            <element signature="e#7768#8565#0" expanded="false" />
+            <marker date="1514494108590" expanded="true" signature="1119:1172" placeholder="{...}" />
           </folding>
         </state>
       </provider>
